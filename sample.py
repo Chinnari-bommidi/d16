@@ -1,3 +1,3 @@
-def add(a,b):
-  return a+b
-print(add())
+def add():
+  print("heloo")
+add()
